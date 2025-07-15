@@ -57,8 +57,3 @@ Given two directors, the program calculates how often they’ve worked with the 
 
 🧾 Final Report
 The accompanying report summarizes personal insights after analyzing and comparing the careers of five notable directors from the scraped dataset.
-
-👩‍🎓 Author
-Prachi Gore
-INSY 5336 – Python Programming
-University of Texas at Arlington
