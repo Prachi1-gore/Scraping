@@ -20,9 +20,9 @@ Comparison: Compare two directors using cosine similarity of actor collaboration
 
 📂 Project Structure
 
-├── Project_PrachiGore.ipynb          # Main Jupyter notebook containing the scraping and CLI logic
-├── PrachiGore_movies.csv             # Output CSV file with movie, director, and cast data
-└── Director_Analysis_Report.docx     # Summary of findings from comparing 5 selected directors
+1. Project_PrachiGore.ipynb          # Main Jupyter notebook containing the scraping and CLI logic
+2. PrachiGore_movies.csv             # Output CSV file with movie, director, and cast data
+3. Director_Analysis_Report.docx     # Summary of findings from comparing 5 selected directors
 
 📌 Technologies Used
 Python 3.x
