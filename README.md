@@ -1,4 +1,5 @@
 🧠 Project Title: Metacritic Top 1000 Movies Scraper
+
 🎯 Overview
 This Python project is designed to scrape information for the Top 1000 most popular movies from Metacritic's "Movies of All Time" list. It extracts each movie's title, director(s), and full cast using Python’s web scraping tools. The final product is an interactive tool that allows users to query this data in multiple ways and perform similarity analysis between directors.
 
